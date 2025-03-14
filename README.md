@@ -1,4 +1,4 @@
-# class <img src="qrcode.png" width="200" height="200">
+# class <img src="QRCode.png" width="200" height="200">
 
 | 項次 | 項目 | 內容 |
 |----:|------|------|
