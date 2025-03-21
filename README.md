@@ -11,5 +11,3 @@
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=_arxHyiDv7VQ"_blank><img src="http://img.youtube.com/vi/_arxHyiDv7VQ/0.jpg"
 alt="youtube" width="400" height="250" border="10" /> </a>
 <br>影片取自 youtube
-
-<br><br><br>
