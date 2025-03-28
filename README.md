@@ -1,4 +1,4 @@
-# C110252222 <img src="qrcode.png" width="200" height="200">
+<# C110252222 <img src="qrcode.png" width="200" height="200">
 
 | 項次 | 項目 | 內容 |
 |----:|------|------|
@@ -13,3 +13,22 @@ alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
 <br><br><br>
+
+<details>
+  1
+  <summary>
+    (1)
+  </summary>
+</details>
+<details>
+2
+  <summary>
+    (1)
+  </summary>
+</details>
+<details>
+  1
+  <summary>
+    (1)
+  </summary>
+</details>
