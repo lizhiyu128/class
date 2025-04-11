@@ -1,4 +1,4 @@
-<# C110252222 <img src="qrcode.png" width="200" height="200">
+ <img src="qrcode.png" width="200" height="200">
 
 | 項次 | 項目 | 內容 |
 |----:|------|------|
